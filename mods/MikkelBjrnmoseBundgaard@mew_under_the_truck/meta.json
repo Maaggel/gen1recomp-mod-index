@@ -1,0 +1,23 @@
+{
+  "id": "mew_under_the_truck",
+  "title": "Mew Under the Truck",
+  "author": "Mikkel Bjørnmose Bundgaard",
+  "version": "0.8.3",
+  "categories": [
+    "GAMEPLAY",
+    "CONTENT"
+  ],
+  "repo": "https://github.com/Maaggel/mew-under-the-truck",
+  "summary": "The schoolyard rumour, made real. Get back to the dock after the S.S. Anne sails, use STRENGTH on the truck, and something stirs underneath.",
+  "tags": [
+    "mew",
+    "legend",
+    "quest",
+    "encounter",
+    "strength"
+  ],
+  "github": "Maaggel/mew-under-the-truck",
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "api": 2,
+  "profile": "content"
+}
